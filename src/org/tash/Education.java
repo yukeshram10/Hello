@@ -11,6 +11,8 @@ public class Education {
 		Education c = new Education();
 		c.ug("Under Graduate");
 		c.pg("Post Graduate");
+		System.out.println("Hello World");
+		System.out.println("Task Successful");
 	}
 
 }
